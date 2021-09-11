@@ -35,14 +35,10 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   [![yudaph's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudaph&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudaph&layout=compact&theme=dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 <br />
 <br />
 
